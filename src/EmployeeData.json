@@ -1,0 +1,62 @@
+[
+{
+    "name":"Jason",
+    "title":"Student",
+    "skillset":["C++","C#","Python"]
+},
+{
+    "name":"Jing Xiang",
+    "title":"Student",
+    "skillset":["Python","C#"]
+},
+{
+    "name":"Andrew",
+    "title":"Student",
+    "skillset":["Cloud", "Python", "Asp.net"]
+},
+{
+    "name":"Msusker",
+    "title":"Programmer",
+    "skillset":["C","Go","C++","Ruby","Node.js","React.js"]
+},
+{
+    "name":"Yanny",
+    "title":"Teacher",
+    "skillset":["Medicine"]
+},
+{
+    "name":"Laurel",
+    "title":"Teacher",
+    "skillset":["Medicine"]
+},
+{
+    "name":"Tale",
+    "title":"Researcher",
+    "skillset":["Problem Solver", "Versatile"]
+},
+{
+    "name":"Alpha",
+    "title":"Adviser",
+    "skillset":["Communication","Analysis"]
+},
+{
+    "name":"Beta",
+    "title":"HR",
+    "skillset":["Excel"]
+},
+{
+    "name":"Charlie",
+    "title":"HR",
+    "skillset":["Excel"]
+},
+{
+    "name":"Delta",
+    "title":"Designer",
+    "skillset":["Premiere","Photoshop","Illustrator","Clip Studio"]
+},
+{
+    "name":"Macross",
+    "title":"Designer",
+    "skillset":["Premiere","Photoshop","Illustrator","Clip Studio"]
+}
+]
